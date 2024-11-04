@@ -41,8 +41,8 @@ Plot training and validation loss curves.
 Use the trained model to reconstruct images and visualize original, noisy, and reconstructed images.
 
 ## PROGRAM
-### Name: BARATHRAJ B
-### Register Number: 212222230019
+### Name: ANBUSELVAM A
+### Register Number: 212222240009
 ```python
 from tensorflow import keras
 from tensorflow.keras import layers
